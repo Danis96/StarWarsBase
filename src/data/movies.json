@@ -1,0 +1,135 @@
+[
+    {
+        "id": "0",
+        "title": "A New Hope (1977)",
+        "description": "While technically the sixth movie, chronologically, A New Hope is worth watching first purely because it's the start of everything. It’s also the only Star Wars film that treats viewers as if they’ve never watched the saga before. So, start with Luke meeting Obi-Wan, getting a lightsaber, and learning about the Force and Darth Vader before he heads off to save Princess Leia and destroy the Death Star.",
+        "director": "George Lucas",
+        "producer": "Gary Kurtz",
+        "duration": "121 minutes",
+        "budget": "$11 million",
+        "earnings": "$775.4 million",
+        "cover":"https://thepeachreview.files.wordpress.com/2018/02/maxresdefault1.jpg?w=1280&h=720&crop=1"
+    },
+    {
+        "id": "1",
+        "title": "Rogue One (2016)",
+        "description": "The first of the new 'Anthology' films, Rogue One is filled with A New Hope backstory. It follows the daughter of the Death Star's creator, Jyn Erso, as she is freed by the Rebel Alliance and tasked with finding the plans that lead to the ultimate weapon's destruction. Yes, it ends where A New Hope begins, but because it's so reliant on you knowing A New Hope already, we think it’s best to watch them in reverse. You'll learn who created the Death Star, why it's so easily destroyed, and you'll meet the many Bothans who died to steal the Death Star plans.",
+        "director": "Gareth Edwards",
+        "producer": "Kathleen Kennedy, Allison Shearmur, Simon Emanuel",
+        "duration": "133 minutes",
+        "budget": "$265 million",
+        "earnings": "$1.056 billion",
+        "cover":"https://bluecarp.net/wp-content/uploads/2019/09/rogue-one-line-up.jpg"
+    },
+    {
+        "id": "2",
+        "title": "The Empire Strikes Back (1980)",
+        "description": "Empire Strikes Back is widely regarded as one of the greatest sequels of all time. After the initial battle on the frozen planet Hoth, Luke heads to begin his Jedi training with Yoda, while Han Solo and Princess Leia head to Cloud City to meet with Han's old friend Lando Calrissian. But Han and Leia are betrayed and then used as bait by Vader to lure Luke. It all culminates in a showdown between Vader and Luke and ends with a twist.",
+        "director": "Irvin Kershner",
+        "producer": "Gary Kurtz",
+        "duration": "124 minutes",
+        "budget": "$18 million",
+        "earnings": "$538.4 million",
+        "cover": "https://www.vintagemovieposters.co.uk/wp-content/uploads/2015/07/esbquadwhitelarge1-482x359.jpg"
+    },
+    {
+        "id": "3",
+        "title": "The Phantom Menace (1999)",
+        "description": "And, just like that, we go from one of the most loved installments of all time to the most loathed. This film follows Obi-Wan Kenobi and his master Qui-Gon Jinn as they attempt to protect the Queen of Naboo and stumble upon a young slave boy named Anakin Skywalker. You're also forced to sit through two hours of Jar-Jar Binks and sleep-inducing Galactic Senate negotiations. So, if you’ve seen this film before, just skip it on your next rewatch. Although it does provide some details important to another prequel film, and it has a great lightsaber duel. ",
+        "director": "George Lucas",
+        "producer": "Rick McCallum",
+        "duration": "133 minutes",
+        "budget": "$115 million",
+        "earnings": "$1.027 billion",
+        "cover":"https://images.justwatch.com/backdrop/55378487/s1440/star-wars-episode-i-the-phantom-menace"
+    },
+    {
+        "id": "4",
+        "title": "Attack of the Clones (2002)",
+        "description": "While the films up to this point have shown Darth Vader as the ultimate evil villain, Attack of the Clones begins to show us the road that led him to the Dark side, with the death of his mother at the hands of Tuskan Raiders. We also see his growing love affair with Queen Padme Amidala. Meanwhile, Obi-Wan Kenobi stumbles upon a clone army being built for the Republic that will form the foundation of the Empire's Stormtroopers.",
+        "director": "George Lucas",
+        "producer": "Rick McCallum",
+        "duration": "142 minutes",
+        "budget": "$115 million",
+        "earnings": "$649.4 million",
+        "cover": "https://img.moviepostershop.com/star-wars-episode-ii-attack-of-the-clones-movie-poster-2002-1020755535.jpg"
+    },
+    {
+        "id": "5",
+        "title": "Revenge of the Sith (2005)",
+        "description": "The final film of the prequel trilogy shows Anakin's heart turn to black. While initially excited upon hearing of his wife Padme's pregnancy, visions of her dying begin to poison Anakin's mind, which allows Supreme Chancellor Palpatine to lure him to the Dark Side of the Force. This then leads to the destruction of the Republic and the murder of many Jedi, including all the young Padawans, at the hand of the newly named Darth Vader.",
+        "director": "George Lucas",
+        "producer": "Rick McCallum",
+        "duration": "140 minutes",
+        "budget": "$113 million",
+        "earnings": "$848.8 million",
+        "cover": "https://cdn2us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/star-wars-revenge-sith-hero_0.jpg?itok=nRsltLC4"
+    },
+    {
+        "id": "6",
+        "title": "Solo (2018)",
+        "description": "The origin story for the coolest guy in the Star Wars Universe provides a tonne of unnecessary backstory, so, honestly, this movie can be skipped. Apparently, Han Solo just wanted to act like Tobias Beckett (Woody Harrelson) and date Qi'ra (Emilia Clarke) in his prime, which is understandable, but it's a little eye-rolling. Still, it’s an entertaining heist film that gives us more information about the most important ship in the galaxy, the Millenium Falcon.",
+        "director": "Ron Howard",
+        "producer": "Kathleen Kennedy, Allison Shearmur Simon Emanuel",
+        "duration": "140 minutes",
+        "budget": "$275–300 million",
+        "earnings": "$393.2 million",
+        "cover": "https://lumiere-a.akamaihd.net/v1/images/solo-theatrical-poster_f98a86eb.jpeg?region=0%2C241%2C865%2C486"
+    },
+    {
+        "id": "7",
+        "title": "Return of the Jedi (1983)",
+        "description": "Now that we’ve learned Darth Vader/Anakin’s background, it’s time to watch him sort of redeem himself with all that knowledge in hand. Plus, after saving Han Solo from the clutches of Jabba the Hutt, we see Luke trying to defeat his father and the Emperor, all while Han and Leia work to demolish a nearly completed second Death Star. Also, there are teddy bears with stone-age technology that help destroy the Empire, too.",
+        "director": "Richard Marquand",
+        "producer": "Howard Kazanjian",
+        "duration": "132 minutes",
+        "budget": "$32.5–42.7 million",
+        "earnings": "$475.1–572.7 million",
+        "cover": "https://www.vintagemovieposters.co.uk/wp-content/uploads/2019/09/IMG_2815-482x358.jpeg"
+    },
+    {
+        "id": "8",
+        "title": "The Force Awakens (2015)",
+        "description": "The first Star Wars film made by Disney after it purchased the franchise is set 30 years after Return of the Jedi. We see that there's a new conflict emerging between the budding Republic, led by Leia Organa-Skywalker and The First Order, which rose from the ashes of the Empire. Caught between this all is a young girl named Rey who seems to be really strong with the Force.",
+        "director": "J. J. Abrams",
+        "producer": "Kathleen Kennedy, J. J. Abrams, Bryan Burk",
+        "duration": "132 minutes",
+        "budget": "$306 million",
+        "earnings": "$2.068 billion",
+        "cover": "https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/starwars-banner-poster-final.jpg"
+    },
+    {
+        "id": "8",
+        "title": "The Last Jedi (2017)",
+        "description": "After tracking down Luke Skywalker, Rey’s next challenge is convincing him to train her. Luke is unwilling due to his failures with Kylo Ren. Meanwhile, the remaining Republic forces are on the verge of total annihilation thanks to The First Order, leaving Rey and Luke as their only hope.",
+        "director": "Rian Johnson",
+        "producer": "Kathleen Kennedy, Ram Bergman",
+        "duration": "152 minutes",
+        "budget": "$200–317 million",
+        "earnings": "$1.333 billion",
+        "cover": "https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/starwars-lastjedi-banner-frontpage.jpg"
+
+    },
+    {
+        "id": "9",
+        "title": "The Rise of Skywalker (2019)",
+        "description": "It’s not out yet, but Episode IX is slated to hit theaters in December 2019. We don’t know much about the film at this point, though the new trailer that's now out - you can watch it here - suggests it's the finale to this decades-old saga. So, let's assume you'll want to watch this film last. ",
+        "director": "J. J. Abrams",
+        "producer": "Kathleen Kennedy, J. J. Abrams, Michelle Rejwan",
+        "duration": "155 minutes",
+        "budget": "not published",
+        "earnings": "not published",
+        "cover": "https://fsmedia.imgix.net/d2/6c/c5/1d/7991/47e2/b0be/74ccd76d8ad9/star-wars-rise-of-skywalker-leaks-theories-spoilers.jpeg?rect=3%2C0%2C742%2C371&auto=format%2Ccompress&dpr=2&w=650"
+    },
+    {
+        "id": "10",
+        "title": "The Mandalorian (2019)",
+        "description": "PERSONAL BEST. -This is the first live-action Star Wars TV series. It debuted with the launch of Disney+. It follows Pedro Pascal as the titular Mandalorian, a gun-fighter and bounty hunter, who makes his way in the furthest reaches of the galaxy five years after the events of Return of the Jedi, placing it well before the events of The Force Awakens and the creation of the First Order.Note: Because The Mandalorian is not an animated show, we're including it this list. However, it's also not a Star Wars film, so it's optional.The travails of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic. ",
+        "director": "Dave Filoni,Rick Famuyiwa,Deborah Chow,Bryce Dallas Howard,Taika Waititi",
+        "producer": "Jon Favreau,Dave Filoni,Kathleen Kennedy,Colin Wilson",
+        "duration": "29–38 minutes",
+        "budget": "not published",
+        "earnings": "not published",
+        "cover": "https://o.aolcdn.com/images/dims?quality=85&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1536%252C864%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C900%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2019-08%252F772e3b20-c607-11e9-bfd5-4cb50962ce5d%26client%3Da1acac3e1b3290917d92%26signature%3Dd94b0fe46b3c493ec6471e7e1dd414fa96beeb5c&client=amp-blogside-v2&signature=53eca799d3b3408094f76d9f10251e034de79cf7"
+    }
+]
