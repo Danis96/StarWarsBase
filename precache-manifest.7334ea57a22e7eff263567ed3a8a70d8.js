@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af02f42c377a99000452705e84e3a74a",
+    "revision": "e07ff2ad4adb5e1eaf5bc174a950eb35",
     "url": "/StarWarsBase/index.html"
   },
   {
-    "revision": "70f358a5fcbe51490f17",
-    "url": "/StarWarsBase/static/css/main.bb47a822.chunk.css"
+    "revision": "2b0fa9277b5ce3c51ce4",
+    "url": "/StarWarsBase/static/css/main.173e1cef.chunk.css"
   },
   {
     "revision": "7527538b4b37ec22f0d5",
     "url": "/StarWarsBase/static/js/2.cb552acc.chunk.js"
   },
   {
-    "revision": "70f358a5fcbe51490f17",
+    "revision": "2b0fa9277b5ce3c51ce4",
     "url": "/StarWarsBase/static/js/main.2837a70f.chunk.js"
   },
   {

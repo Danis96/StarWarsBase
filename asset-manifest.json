@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/StarWarsBase/static/css/main.bb47a822.chunk.css",
+    "main.css": "/StarWarsBase/static/css/main.173e1cef.chunk.css",
     "main.js": "/StarWarsBase/static/js/main.2837a70f.chunk.js",
     "main.js.map": "/StarWarsBase/static/js/main.2837a70f.chunk.js.map",
     "runtime-main.js": "/StarWarsBase/static/js/runtime-main.c8784416.js",
@@ -8,9 +8,9 @@
     "static/js/2.cb552acc.chunk.js": "/StarWarsBase/static/js/2.cb552acc.chunk.js",
     "static/js/2.cb552acc.chunk.js.map": "/StarWarsBase/static/js/2.cb552acc.chunk.js.map",
     "index.html": "/StarWarsBase/index.html",
-    "precache-manifest.a1b8afd63722db7457a04def6cbbf53a.js": "/StarWarsBase/precache-manifest.a1b8afd63722db7457a04def6cbbf53a.js",
+    "precache-manifest.7334ea57a22e7eff263567ed3a8a70d8.js": "/StarWarsBase/precache-manifest.7334ea57a22e7eff263567ed3a8a70d8.js",
     "service-worker.js": "/StarWarsBase/service-worker.js",
-    "static/css/main.bb47a822.chunk.css.map": "/StarWarsBase/static/css/main.bb47a822.chunk.css.map",
+    "static/css/main.173e1cef.chunk.css.map": "/StarWarsBase/static/css/main.173e1cef.chunk.css.map",
     "static/media/ds.jpg": "/StarWarsBase/static/media/ds.792d27d6.jpg",
     "static/media/allAround.css": "/StarWarsBase/static/media/header.fa4f9b17.jpg",
     "static/media/milfal.png": "/StarWarsBase/static/media/milfal.729f115b.png",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.c8784416.js",
     "static/js/2.cb552acc.chunk.js",
-    "static/css/main.bb47a822.chunk.css",
+    "static/css/main.173e1cef.chunk.css",
     "static/js/main.2837a70f.chunk.js"
   ]
 }
